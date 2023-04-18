@@ -12,7 +12,7 @@ To get started with this course, follow these simple steps: desktop/mobile suppo
 
 1. Visit the web app [here](https://cs-training-course-rmjc.moodlecloud.com/)
 2. Login with the guess account (user: user123 pass: password123)[if you want to have an individual account proceed on register account]
-3. After loggin in you can access the course on your dashboard or homepage
+3. After logging in you can access the course on your dashboard or homepage
 4. Access the modules and learn the concepts in programming
 5. Installing software are only optional since there are embedded compilers inside the modules
 
