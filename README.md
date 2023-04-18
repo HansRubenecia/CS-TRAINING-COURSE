@@ -7,7 +7,7 @@
 
 This course aims to examine the relationship between knowledge management and the success of new incoming college students in the College of Informatics and Computing Studies Department of Computer Science (CICS) at New Era University. Specifically, it will focus on analyzing the effectiveness of knowledge management tools in aiding new incoming students to make informed decisions about their chosen field of study before entering the program.
 
-# How to jumpstart on this self-pased course
+# How to jumpstart on this self-paced course
 To get started with this course, follow these simple steps: desktop/mobile supported
 
 1. Visit the web app [here](https://cs-training-course-rmjc.moodlecloud.com/)
